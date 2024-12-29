@@ -1,0 +1,4 @@
+E:
+cd E:\Temporarily\ПО\Код с редакцией на ноутбуке\Новые\Учиться печатать\history
+pyside2-uic "Typing_view.ui" -o "Typing_view.py"
+exit

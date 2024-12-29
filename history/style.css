@@ -1,0 +1,28 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: url(Typing_files/images/4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffff00;
+}
+
+div {
+	font-size: 25px;
+}
+
+#err {
+	color: red;
+}
+
+#value {
+	background-image: url(Typing_files/images/2.jpg);
+	repeat: no-repeat;
+	background-size: cover;
+}
+
+#num {
+	color: rgba(0,0,0,0);
+}
